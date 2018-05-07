@@ -1,0 +1,16 @@
+.img-responsive {
+  margin: auto;
+ 
+}
+
+body {
+  margin: auto;
+  margin-top: 60px;
+  font-family: Segoe UI, San Francisco, Roboto Sans, Open Sans;
+  max-width: 80%;
+  min-width: 300px;
+}
+
+h2 {
+  padding-bottom: 2
+}
